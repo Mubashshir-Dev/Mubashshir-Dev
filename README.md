@@ -10,9 +10,9 @@
 <td > <img src="kafka.png" width="90%">
 </td>
 
-<td valign="center" style="border:0px 0px 0px 0px;" >
+<td valign="center" >
 <pre><code> mubashshir.tech@gmail.com<br>
-____________________________
+__________________________________
 OS: EndeavourOS x86_64
 shell: zsh 5.9.2
 Pronouns: He/Him
