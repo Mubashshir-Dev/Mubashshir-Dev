@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<table>
+<table style="border:none;">
 <tr>
 
 <td > <img src="kafka.png" width="90%">
