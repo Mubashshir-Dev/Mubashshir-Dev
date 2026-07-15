@@ -12,7 +12,7 @@
 
 <td valign="center" >
 <pre><code> mubashshir.tech@gmail.com<br>
-__________________________________________
+_____________________________________________
 OS: EndeavourOS x86_64
 shell: zsh 5.9.2
 Pronouns: He/Him
