@@ -10,7 +10,7 @@
 <td > <img src="kafka.png" width="90%">
 </td>
 
-<td valign="center">
+<td valign="center" style="border-width:0px 0px 0px 0px;" >
 <pre><code> mubashshir.tech@gmail.com<br>
 ____________________________
 OS: EndeavourOS x86_64
