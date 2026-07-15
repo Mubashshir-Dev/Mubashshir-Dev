@@ -2,4 +2,4 @@
  > fastfetch 
  ```
 
- ![kafka](kafka.jpg)
+ ![kafka](kafka.png)
