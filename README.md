@@ -7,10 +7,10 @@
 <table>
 <tr>
 
-<td> <img src="kafka.png" width="90%">
+<td > <img src="kafka.png" width="90%">
 </td>
 
-<td>
+<td valign="top">
 <pre><code> mubashshir.tech@gmail.com<br>
 ____________________________
 OS: EndeavourOS x86_64
