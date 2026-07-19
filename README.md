@@ -19,7 +19,7 @@ Pronouns: He/Him
 Location: Delhi<->G.Noida🇮🇳
 Framework:
 Languages: C C++ Python Html5 
-           CSS3
+           CSS3 JS
 Learning : DSA Bootstrap Sass 
            Backend React
 Hobbies  : Music
