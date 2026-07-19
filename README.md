@@ -31,6 +31,11 @@ stars    :
 
 </tr>
 </table>
-
+<picture>
+ 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mubashshir-Dev/Mubashshir-Dev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mubashshir-Dev/Mubashshir-Dev/output/github-contribution-grid-snake-light.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Mubashshir-Dev/Mubashshir-Dev/output/github-contribution-grid-snake.svg">
+</picture>
 
  
