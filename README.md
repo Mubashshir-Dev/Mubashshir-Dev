@@ -1,5 +1,5 @@
 
-```
+``` bash
  > fastfetch 
  ```
 <br>
@@ -38,8 +38,9 @@ stars    : 0
 </table>
 <picture>
 
-<a href="www.google.com"><img src = "images/mail.png" ></a>
- 
+<pre>
+<a href="mailto:mubashshir.tech@gmail.com"><img src = "images/mail.png" width="5%" height="5%"></a>
+</pre>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mubashshir-Dev/Mubashshir-Dev/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mubashshir-Dev/Mubashshir-Dev/output/github-contribution-grid-snake-light.svg">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Mubashshir-Dev/Mubashshir-Dev/output/github-contribution-grid-snake.svg">
