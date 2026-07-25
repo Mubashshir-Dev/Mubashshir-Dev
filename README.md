@@ -12,7 +12,7 @@
 </td>
 
 <td valign="center" >
-<pre><code> mubashshir.tech@gmail.com
+<pre><code> mubashshirkhan.dev@gmail.com
 _____________________________________________
  <br>
 OS: EndeavourOS x86_64  
@@ -39,7 +39,7 @@ stars    : 0
 <picture>
 
 <pre>
-<a href="mailto:mubashshir.tech@gmail.com"><img src = "images/mail.png" width="5%" height="5%"></a>
+<a href="mailto:mubashshirkhan.dev@gmail.com"><img src = "images/mail.png" width="5%" height="5%"></a>
 </pre>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mubashshir-Dev/Mubashshir-Dev/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mubashshir-Dev/Mubashshir-Dev/output/github-contribution-grid-snake-light.svg">
