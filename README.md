@@ -24,8 +24,7 @@ Location: Delhi<->G.Noida🇮🇳
 Framework:
 Languages: C C++ Python Html5 
            CSS3 JS
-Learning : DSA Bootstrap Sass 
-           Backend React
+Learning : DSA
 Hobbies  : Music
 <br>
 Commits  : 
